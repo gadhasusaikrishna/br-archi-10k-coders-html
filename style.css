@@ -1,0 +1,111 @@
+.container{
+    border: 2px solid cadetblue;
+    background-color:black;
+    color:ivory;
+    position: fixed;
+    /* margin-left: 40px; */
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 1490px;
+    z-index: 1;
+    
+}
+.item{
+    /* position: fixed; */
+    display: inline-block;
+    margin-left: 1000px;
+    padding-right: 10px;
+}
+
+.image{
+    
+    padding-top: 100px;
+    position: relative;
+}
+
+.text{
+    position:absolute;
+    padding-left: 600px;
+    margin-top: -460px;
+}
+
+.ite{
+    /* border: 2px solid red; */
+    width: 1260px;
+    height: 500px;
+    
+}
+
+.summer, .brick, .renovated, .barn{
+    display: inline-block;
+/* border: 2px solid brown; */
+    width: 300px;
+    height: 280px;
+    padding-left: 5px;
+    position: relative;
+}
+
+.sumr{
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 10px;
+    background-color: black;
+    color: bisque;
+}
+.bri{
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 320px;
+    background-color: black;
+    color: bisque;
+}
+.reno{
+ position: absolute;
+    margin-top: -280px;
+    margin-left: 630px;
+    background-color: black;
+    color: bisque;
+}
+.bain{
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 940px;
+    background-color: black;
+    color: bisque;
+}
+
+.about{
+    margin-top: -200px;
+}
+
+.a{
+    /* margin-top: 2; */
+    /* border: 2px solid royalblue; */
+    /* height: 300px; */
+}
+.aa, .bb, .cc, .dd{
+    /* border: 2px solid red; */
+    padding-left: 10px;
+    display: inline-block;
+    width: 290px;
+    height: 300px;
+}
+
+.cont input{
+ width: 1300px;
+ height: 30px;
+
+}
+
+.cont button{
+    background-color: black;
+    color: antiquewhite;
+    height: 50px;
+    width: 150px;
+}
+
+
+    
+
+
